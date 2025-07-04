@@ -1,13 +1,13 @@
 
-🌦️ Weather App
+🌦️ **Weather App**
 
 This is a simple Weather App built using React JS and React Hooks. It allows users to search for the current weather in any city by entering the city name.
 
-🚀 Features
+🚀 **Features**
 
 Search weather by city name
 
-Displays:
+**Displays:**
 
 🌡️ Temperature
 
@@ -32,7 +32,7 @@ Weather API (e.g., OpenWeatherMap API)
 
 CSS
 
-🔗 Live Demo
+🔗** Live Demo**
 
 https://weatherapp-indhu.netlify.app/
 
