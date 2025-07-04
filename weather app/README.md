@@ -33,5 +33,6 @@ Weather API (e.g., OpenWeatherMap API)
 CSS
 
 🔗 Live Demo
+https://weatherapp-indhu.netlify.app/
 
-Click here to view the deployed app
+
