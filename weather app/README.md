@@ -1,11 +1,14 @@
 
 🌦️ Weather App
+
 This is a simple Weather App built using React JS and React Hooks. It allows users to search for the current weather in any city by entering the city name.
 
 🚀 Features
+
 Search weather by city name
 
 Displays:
+
 🌡️ Temperature
 
 🌤️ Weather condition (e.g., Sunny, Rainy)
