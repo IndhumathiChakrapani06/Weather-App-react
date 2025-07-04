@@ -33,4 +33,5 @@ Weather API (e.g., OpenWeatherMap API)
 CSS
 
 🔗 Live Demo
+
 Click here to view the deployed app
